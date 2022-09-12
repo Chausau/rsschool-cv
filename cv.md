@@ -1,6 +1,6 @@
 ---
 
-![Chausau](/rsschool-cv/JPG/AvdrCh1.jpg)
+![Chausau] (/rsschool-cv/JPG/AvdrCh1.jpg)
 
 ---
 # _**Andrey Chausau**_
